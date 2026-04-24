@@ -18,5 +18,6 @@ Any file can be used to add waypoints to a specific city. Only use the city.sql 
 <H2>11k NPCBOT files to add over 11,000 bots:</H2>  
 
 This will add 11k new bots to your existing bots, using the specific IDS listed below.  
+Table `creature_equip_template` WHERE `CreatureID` BETWEEN 80001 AND 91982  
 
 <B>All files have to be added in order for this to work</B>  
