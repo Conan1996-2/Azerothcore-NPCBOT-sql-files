@@ -8,7 +8,7 @@ Any file can be used to add waypoints to a specific city. Only use the city.sql 
 <B>Specific ID's used - City - file:</B>  
 5200-5299 - Stormwind      - creature_template_npcbot_wander_nodes-Stormwind.sql  
 5300-5399 - Ironforge      - creature_template_npcbot_wander_nodes-Ironforge.sql  
-5400-5499 - Darnassus      - creature_template_npcbot_wander_nodes-Darnassus.sql
+5400-5499 - Darnassus      - creature_template_npcbot_wander_nodes-Darnassus.sql  
 5500-5599 - Orgrimmar      - creature_template_npcbot_wander_nodes-Orgrimmar.sql  
 5600-5699 - Undercity      - creature_template_npcbot_wander_nodes-Undercity.sql  
 5700-5799 - Thunder Bluff - creature_template_npcbot_wander_nodes-ThunderBluff.sql  
