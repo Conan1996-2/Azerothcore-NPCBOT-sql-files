@@ -11,5 +11,5 @@ This will add 11k new bots to your existing bots, using the specific IDS listed 
 80001-91982 - creature_template_npcbot_extras     - 11k_creature_template_npcbot_extras.sql  
 
 NOTE:  
-*<B>All files have to be added in order for this to work</B>  
+*<B>All files except the remove_11k_bots.sql have to be added in order for this to work</B>  
 *remove_11k_bots.sql will remove everything from 80001-91982 in the tables creature_equip_template, creature_template, creature_template_model, creature_template_npcbot_appearance, creature_template_npcbot_extras
