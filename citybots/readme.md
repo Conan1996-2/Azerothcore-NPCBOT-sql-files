@@ -11,3 +11,6 @@ NPCBOT SQL files for wanderingbots in cities, 11k Bots
 50700-50799 - Thunder Bluff  - creature_template_npcbot_wander_nodes-ThunderBluff.sql  
 50800-50899 - Dalaran        - creature_template_npcbot_wander_nodes-Dalaran.sql  
 50900-50999 - Shattrath City - creature_template_npcbot_wander_nodes-Shattrath.sql  
+
+CAUTION:
+remove_city_bots.sql qill erase evrything between 50200 and 50999 in creature_template_npcbot_wander_nodes
